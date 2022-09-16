@@ -1,0 +1,41 @@
+.left{
+    background-color: #103447;
+    margin: 8px 20px;
+    max-width: 60%;
+    border-radius: 10px;
+    padding: 10px;    
+    clear: both;
+    float: left;
+    word-wrap: break-word;
+}
+.right{
+    background-color: #0caba6;
+    margin: 8px 20px;
+    max-width: 60%;
+    border-radius: 10px;
+    padding: 10px;    
+    clear: both;
+    float: right;
+    word-wrap: break-word;
+}
+.admin{
+    background-color: gray;
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px auto;
+    max-width: 40%;
+    padding: 2px;
+}
+.username{
+    color: violet;
+}
+.message{
+    color: #fff;
+}
+
+.time{
+    float: right;
+    color: wheat;/*thistle;*/
+    font-size: 0.8rem;
+}
